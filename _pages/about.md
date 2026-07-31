@@ -6,7 +6,7 @@ subtitle: Photonics & quantum-hardware engineer · integrated photonics, charact
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: deeksha_on_train.jpeg
   image_circular: false
   more_info: >
     <p>Cambridge, UK</p>

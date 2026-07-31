@@ -1,0 +1,8 @@
+# social links shown on the About page (order preserved)
+cv_pdf: /assets/pdf/Deeksha_Dadhich_CV.pdf
+email: deekshadadhich@gmail.com
+linkedin_username: deekshadadhich
+github_username: rangolideeksha   # <-- update if your GitHub handle differs
+# scholar_userid: XXXX            # add your Google Scholar ID when ready
+# orcid_id: 0000-0000-0000-0000   # add your ORCID when ready
+rss_icon: false

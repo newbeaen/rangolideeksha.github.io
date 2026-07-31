@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://newbeaen.github.io/rangolideeksha.github.io/sitemap.xml
+Sitemap: https://rangolideeksha.github.io/sitemap.xml
